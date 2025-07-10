@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Bl00dyXIII/Bl00dyXIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there!
+<center>Welcome to my profesional profile in progress!</center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bl00dyXIII)](https://github.com/Bl00dyXIII/readme-components)
 
-Here are some ideas to get you started:
+### About me 🎸🏍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name: Brian a little bit weird for someone who born directly in Barcelona, 
+lover of alternative music, guitar player and motorcycles like Harley Davidson or Indian.
+I'm starting to learn code for change my life wish me luck.
+Currently working on events like MWC or Sonar(Mobile World congress), hopefully I can change it soon.🤪
+
+### Languages: ES/CAT/ENG
+
