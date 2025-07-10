@@ -15,3 +15,5 @@ Currently working on events like MWC or Sonar(Mobile World congress), hopefully 
 
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bl00dyXIII)]
+
+[![](https://img.shields.io/badge/html5?style=for-the-badge&logo=html5&logoColor=F7DF1E)]
