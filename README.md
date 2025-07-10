@@ -26,3 +26,5 @@ Currently working on events like MWC or Sonar(Mobile World congress), hopefully 
 
  [![Brian's Github Trophies](https://github-profile-trophy.vercel.app/?username=Bl00dyXIII&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Bl00dyXIII/readme-components)
  
+## Future achivements
+Being a fullstack worker in some company and improving myself to be better.
