@@ -24,5 +24,5 @@ Currently working on events like MWC or Sonar(Mobile World congress), hopefully 
 
  <img src="https://github-profile-trophy.vercel.app/?username=Bl00dyXIII&theme=onedark&column=3&margin-w=15&margin-h=15" />
 
- [![Brian's Github Trophies](https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Bl00dyXIII/readme-components)
+ [![Brian's Github Trophies](https://github-profile-trophy.vercel.app/?username=Bl00dyXIII&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/Bl00dyXIII/readme-components)
  
