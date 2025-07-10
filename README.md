@@ -14,4 +14,4 @@ Currently working on events like MWC or Sonar(Mobile World congress), hopefully 
 ### Languages: ES/CAT/ENG
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/Bl00dyXIII)](https://github.com/Bl00dyXIII/readme-components)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=Bl00dyXIII)](https://github.com/Bl00dyXIII/readme-components)
