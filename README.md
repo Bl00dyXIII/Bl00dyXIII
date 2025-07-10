@@ -15,19 +15,8 @@ Currently working on events like MWC or Sonar(Mobile World congress), hopefully 
 
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bl00dyXIII)]
-
-const Naveen = {
-    pronouns: "He" | "Him",
-    Learning code: ["HTML5", "JavaScript", "CSS", "GiT"],
-    askMeAbout: ["teachers from 4geeks", "tech", "Guitars", "metal music"],
-    technologies: {
-       mobileApp: ["Android App"],
-       backEnd: {
-            js: ["node", "express", "hapi"],
-        },
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
-    },
-    architecture: ["microservices", "event-driven"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
+ 
+ ###Learning
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=brightgreen)
