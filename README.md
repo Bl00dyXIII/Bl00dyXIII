@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello there!
 <center>Welcome to my profesional profile in progress!</center>
 
